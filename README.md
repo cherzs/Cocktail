@@ -1,1 +1,1 @@
-# Cocktail
+Powered by https://www.thecocktaildb.com/api.php
